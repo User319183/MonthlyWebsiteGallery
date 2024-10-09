@@ -11,11 +11,12 @@ body {
 
 .navbar-brand,
 .nav-link {
-	color: #ffffff;
+	color: #ffffff !important;
 }
 
 .nav-link.active {
 	font-weight: bold;
+	color: #ffffff !important;
 }
 
 .card {
